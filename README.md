@@ -6,13 +6,41 @@ A simple yet elegant fullstack application to manage a directory of your friends
 
 ## Screenshots
 
-| No friends yet            | Friend Card Added           | Edit Friend Modal         |
-|---------------------------|-----------------------------|---------------------------|
-| ![](public/photo1.png)    | ![](public/photo2.png)      | ![](public/photo3.png)    |
+<p align="center">
+  <img src="public/photo1.png" alt="No Friends Yet" width="600"/>
+  <br>
+  <em>No friends yet – Empty state message</em>
+</p>
 
-| Create Friend Modal       | Friend Added Successfully   | Friend List               |
-|---------------------------|-----------------------------|---------------------------|
-| ![](public/photo4.png)    | ![](public/photo5.png)      | ![](public/photo6.png)    |
+<p align="center">
+  <img src="public/photo2.png" alt="Friend Card Added" width="600"/>
+  <br>
+  <em>Friend card added with role, description, and avatar</em>
+</p>
+
+<p align="center">
+  <img src="public/photo3.png" alt="Edit Friend Modal" width="600"/>
+  <br>
+  <em>Edit modal for updating user details</em>
+</p>
+
+<p align="center">
+  <img src="public/photo4.png" alt="Create Friend Modal" width="600"/>
+  <br>
+  <em>Modal for creating a new contact</em>
+</p>
+
+<p align="center">
+  <img src="public/photo5.png" alt="Friend Created Successfully" width="600"/>
+  <br>
+  <em>Toast message after successfully creating a contact</em>
+</p>
+
+<p align="center">
+  <img src="public/photo6.png" alt="Friend List" width="600"/>
+  <br>
+  <em>Friend list view with multiple user cards</em>
+</p>
 
 ---
 
