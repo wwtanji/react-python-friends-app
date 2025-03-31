@@ -7,37 +7,37 @@ A simple yet elegant fullstack application to manage a directory of your friends
 ## Screenshots
 
 <p align="center">
-  <img src="public/photo1.png" alt="No Friends Yet" width="600"/>
+  <img src="/frontend/public/readme/photo1.png" alt="No Friends Yet" width="600"/>
   <br>
   <em>No friends yet – Empty state message</em>
 </p>
 
 <p align="center">
-  <img src="public/photo2.png" alt="Friend Card Added" width="600"/>
+  <img src="/frontend/public/readme/photo2.png" alt="Friend Card Added" width="600"/>
   <br>
   <em>Friend card added with role, description, and avatar</em>
 </p>
 
 <p align="center">
-  <img src="public/photo3.png" alt="Edit Friend Modal" width="600"/>
+  <img src="/frontend/public/readme/photo3.png" alt="Edit Friend Modal" width="600"/>
   <br>
   <em>Edit modal for updating user details</em>
 </p>
 
 <p align="center">
-  <img src="public/photo4.png" alt="Create Friend Modal" width="600"/>
+  <img src="/frontend/public/readme/photo4.png" alt="Create Friend Modal" width="600"/>
   <br>
   <em>Modal for creating a new contact</em>
 </p>
 
 <p align="center">
-  <img src="public/photo5.png" alt="Friend Created Successfully" width="600"/>
+  <img src="/frontend/public/readme/photo5.png" alt="Friend Created Successfully" width="600"/>
   <br>
   <em>Toast message after successfully creating a contact</em>
 </p>
 
 <p align="center">
-  <img src="public/photo6.png" alt="Friend List" width="600"/>
+  <img src="/frontend/public/readme/photo6.png" alt="Friend List" width="600"/>
   <br>
   <em>Friend list view with multiple user cards</em>
 </p>
