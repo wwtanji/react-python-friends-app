@@ -1,3 +1,21 @@
+# Friends Manager – React + Vite + Flask + Chakra UI
+
+A simple yet elegant fullstack application to manage a directory of your friends or teammates. Built with **React** (via Vite), **Chakra UI** for styling, and **Flask** as the backend REST API.
+
+---
+
+## Screenshots
+
+| No friends yet            | Friend Card Added           | Edit Friend Modal         |
+|---------------------------|-----------------------------|---------------------------|
+| ![](public/photo1.png)    | ![](public/photo2.png)      | ![](public/photo3.png)    |
+
+| Create Friend Modal       | Friend Added Successfully   | Friend List               |
+|---------------------------|-----------------------------|---------------------------|
+| ![](public/photo4.png)    | ![](public/photo5.png)      | ![](public/photo6.png)    |
+
+---
+
 # Friends Manager – React + Vite + Chakra UI
 
 ## Project Intent
